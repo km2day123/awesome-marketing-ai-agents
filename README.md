@@ -177,6 +177,7 @@ AI tools for visual content creation.
 | [HeyGen](https://heygen.com) | AI spokesperson videos from text. | Freemium |
 | [Descript](https://descript.com) | Video/podcast editing with AI transcription and overdub. | Freemium |
 | [Pictory](https://pictory.ai) | Turn long-form content into short videos automatically. | Paid |
+| [PopcornAI](https://popcornai.art/) | AI video and image generator for creators and marketers, built for turning static visuals into short ad creatives, content clips, and campaign-ready motion assets. | Freemium |
 
 ---
 
