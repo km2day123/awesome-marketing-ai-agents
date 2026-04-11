@@ -68,6 +68,7 @@ AI-enhanced tools for search optimization and keyword discovery.
 | [MarketMuse](https://marketmuse.com) | AI content planning with topic modeling and competitive analysis. | Paid |
 | [SEMrush](https://semrush.com) | Comprehensive SEO suite with AI writing assistant add-on. | Paid |
 | [Ahrefs](https://ahrefs.com) | Industry-standard backlink and keyword research. | Paid |
+| [toprank](https://github.com/nowork-studio/toprank) | Open-source Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API; rewrites meta tags, generates JSON-LD schema markup, and ships fixes to WordPress/Strapi/Contentful/Ghost. 107 stars. | Free (MIT) |
 
 ---
 
