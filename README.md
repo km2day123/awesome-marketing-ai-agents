@@ -99,6 +99,7 @@ AI tools for social content creation and management.
 | [Publer](https://publer.io) | Social scheduling with AI text and image generation. | Freemium |
 | [Predis.ai](https://predis.ai) | AI-generated social posts with images and videos. | Freemium |
 | [Taplio](https://taplio.com) | LinkedIn-focused content creation and scheduling. | Paid |
+| [Cyber Collector](https://t.me/cybercollectorbot) | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels & Stories, YouTube + Shorts, X/Twitter, and Facebook videos. No signup required. [Website](https://cybercollector.hitkey.io) | Free |
 
 ---
 
