@@ -52,6 +52,7 @@ Tools for creating marketing content at scale.
 | [Writer](https://writer.com) | Enterprise AI with style guides and terminology management. | Paid |
 | [Writesonic](https://writesonic.com) | AI writing with SEO optimization features and Chatsonic for research. | Freemium |
 | [Anyword](https://anyword.com) | Predictive performance scores for AI-generated copy. | Paid |
+| [CreatorSkills](https://creatorskills.co) | Marketplace of 30+ downloadable AI skills for content creators — YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT. | Paid |
 
 ---
 
