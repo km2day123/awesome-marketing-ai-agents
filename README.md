@@ -68,6 +68,7 @@ AI-enhanced tools for search optimization and keyword discovery.
 | [MarketMuse](https://marketmuse.com) | AI content planning with topic modeling and competitive analysis. | Paid |
 | [SEMrush](https://semrush.com) | Comprehensive SEO suite with AI writing assistant add-on. | Paid |
 | [Ahrefs](https://ahrefs.com) | Industry-standard backlink and keyword research. | Paid |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code skills for SEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. (~2.9k stars, MIT) | Free |
 
 ---
 
