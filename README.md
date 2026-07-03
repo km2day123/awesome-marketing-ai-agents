@@ -116,6 +116,7 @@ AI-powered email creation and optimization.
 | [Lavender](https://lavender.ai) | AI email coach for sales emails with real-time scoring. | Freemium |
 
 ---
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform for growth teams, campaigns, segmentation, and customer journeys.
 
 ## Landing Pages & Copy Optimization
 
