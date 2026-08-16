@@ -177,6 +177,7 @@ AI tools for visual content creation.
 | [HeyGen](https://heygen.com) | AI spokesperson videos from text. | Freemium |
 | [Descript](https://descript.com) | Video/podcast editing with AI transcription and overdub. | Freemium |
 | [Pictory](https://pictory.ai) | Turn long-form content into short videos automatically. | Paid |
+| [videos.social](https://videos.social/?utm_source=km2day123-awesome-marketing-ai-agents&utm_medium=directory&utm_campaign=listing-wave-d) | Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included. | Freemium |
 
 ---
 
