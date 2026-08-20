@@ -77,6 +77,7 @@ Track competitors and understand market dynamics.
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
+| [AdMapix](https://www.admapix.com) | AI-native advertising intelligence for searching competitor ad creatives, app intelligence, and market research. | Freemium |
 | [Crayon](https://crayon.co) | AI-powered competitive intelligence with automated tracking. | Paid |
 | [Klue](https://klue.com) | Competitive enablement platform for sales and marketing teams. | Paid |
 | [Kompyte](https://kompyte.com) | Real-time competitor monitoring and battlecard automation. | Paid |
