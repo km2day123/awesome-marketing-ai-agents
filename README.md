@@ -143,6 +143,7 @@ AI-enhanced marketing analytics.
 | [Heap](https://heap.io) | Auto-capture analytics with AI insights. | Freemium |
 | [Narrative BI](https://narrative.bi) | AI-generated analytics narratives from your data. | Paid |
 | [Polymer](https://polymersearch.com) | AI-powered data analysis and visualization. | Freemium |
+| [Qonvert Marketing AI](https://qonvert.ai/services/google-ads?utm_source=awesome_marketing_ai_agents&utm_medium=directory&utm_campaign=google_ads_mcp) | Reviews spend, recorded conversions, and search terms in existing Google Ads campaigns and proposes specific changes for human approval. Qonvert Connect offers authorized MCP access. | Paid with a 3-day trial |
 
 ---
 
